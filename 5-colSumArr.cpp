@@ -77,9 +77,9 @@ int main() {
 	
 	colSumArr(arr,arrSumCol, 3, 3);
 	printColSumArr(arrSumCol, 3);
-	
+
 	system("pause>0");
-	
+
 	cout << "\n\n***************************************************\n\n";
 	return 0;
 }
