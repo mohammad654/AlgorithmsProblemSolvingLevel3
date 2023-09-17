@@ -5,3 +5,14 @@ cmd /c “$(CURRENT_DIRECTORY) \a.exe”
 g++ index.cpp -o index.exe
 index.exe
 
+
+/*
+
+cout<<""<<endl;
+         g++ index.cpp -o index.exe
+              .\index.exe
+
+    $env:PATH += ";C:\Programmeren\C++\mosh"
+13-isIdentityMatrix.cpp
+
+  */

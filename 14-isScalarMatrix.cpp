@@ -24,7 +24,7 @@ bool isScalarMatrix(int matrix1[3][3], short rows, short cols) {
 }
 
 int main() {
-    int matrix1[3][3] = { {11, 20, 30}, {40, 11, 50}, {80, 90, 11} };
+    int matrix1[3][3] = { {121, 20, 30}, {40, 11, 50}, {80, 90, 11} };
     cout << "\nMatrix1:\n";
     printMatrix(matrix1, 3, 3);
 
